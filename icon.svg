@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="800" viewBox="0 0 500 400" role="img" aria-labelledby="title desc">
+  <title id="title">Jook Private Limited logo</title>
+  <desc id="desc">A stylized J in orange and red with two green leaf-like marks, above the words Jook Private Limited in dark gray.</desc>
+  <rect width="500" height="400" fill="#FFFFFF"/>
+  <!-- Orange curved lower stroke of the J -->
+  <path d="M145 203
+           C145 178 162 162 181 162
+           C201 162 215 178 215 198
+           C215 219 229 233 249 233
+           C268 233 282 219 282 199
+           L282 224
+           C282 264 254 292 215 292
+           C175 292 145 263 145 224
+           Z"
+        fill="#F6A51A"/>
+  <!-- Red upright stroke, rounded at the top and lower end -->
+  <path d="M265 62
+           H282
+           C302 62 315 76 315 96
+           V210
+           C315 229 303 242 284 242
+           C265 242 253 229 253 210
+           V74
+           C253 67 258 62 265 62
+           Z"
+        fill="#ED1C24"/>
+  <!-- Upper green seed / leaf -->
+  <path d="M340 79
+           C350 71 361 77 365 87
+           C370 98 359 111 347 119
+           C337 125 326 119 323 109
+           C320 99 330 87 340 79 Z"
+        fill="#65B747"/>
+  <!-- Lower green leaf -->
+  <path d="M326 143
+           C337 136 348 144 359 156
+           L372 170
+           C382 181 374 194 363 200
+           C352 206 341 196 331 186
+           L318 172
+           C308 162 315 149 326 143 Z"
+        fill="#65B747"/>
+  <!-- Wordmark -->
+  <text x="250" y="360" text-anchor="middle"
+        font-family="Arial Narrow, Liberation Sans Narrow, sans-serif"
+        font-size="31" font-stretch="condensed" letter-spacing="-1.3"
+        fill="#444444">Jook Private Limited</text>
+</svg>
